@@ -1,4 +1,5 @@
 torch
 transformers
 vllm
-sglang
+fastapi
+uvicorn
